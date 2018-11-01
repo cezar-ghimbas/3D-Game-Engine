@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scenes>
+	<Scene name="Scene 1">
+		<Object x="1.0" y="1.0" z="3.0">
+		
+		</Object>
+	</Scene>
+
+	<Scene name="Scene 2">
+	</Scene>
+</Scenes>

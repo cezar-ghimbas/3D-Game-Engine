@@ -1,0 +1,11 @@
+newmtl Default
+Ns 100.000
+d 1.00000
+illum 2
+Kd 0.07568 0.61424 0.07568
+Ka 0.0215 0.1745 0.0215
+Ks 0.633 0.727811 0.633
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd common-cockle_Diffuse.jpg
+map_Ks common-cockle_Roughness.png
+map_bump common-cockle_Normal.png

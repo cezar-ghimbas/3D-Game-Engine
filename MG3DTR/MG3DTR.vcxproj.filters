@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AssetHelper.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseTest.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GLFWHelper.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Material.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshRenderer.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Transform.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Util.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Vertex.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="dependences\stb_image\stb_image.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="dependences\tinyobjloader\tiny_obj_loader.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TestSimple.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RayCaster.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Component.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Frustum.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AxisAlignedBoundingBox.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OrientedBoundingBox.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Debug.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="dependences\rapidxml\rapidxml.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="dependences\rapidxml\rapidxml_iterators.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="dependences\rapidxml\rapidxml_print.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="dependences\rapidxml\rapidxml_utils.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneReader.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Light.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Input.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaScript.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Collider.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BoxCollider.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Collision.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GlobalRenderer.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="dependences\imgui\imgui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="dependences\imgui\imgui_demo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="dependences\imgui\imgui_draw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="dependences\imgui\imgui_impl_glfw_gl3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="shaders\Phong\phong.frag">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="shaders\Phong\phong.vert">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>

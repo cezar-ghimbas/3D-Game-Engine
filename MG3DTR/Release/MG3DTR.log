@@ -1,0 +1,7 @@
+﻿  main.cpp
+main.cpp(16): warning C4101: 'window': unreferenced local variable
+glfw3.lib(init.c.obj) : error LNK2001: unresolved external symbol __imp__vsnprintf
+MSVCRT.lib(vsnprintf.obj) : error LNK2001: unresolved external symbol __imp__vsnprintf
+glfw3.lib(context.c.obj) : error LNK2001: unresolved external symbol __imp__sscanf
+MSVCRT.lib(vsnprintf.obj) : error LNK2001: unresolved external symbol __imp___vsnprintf
+D:\Work\Visual Studio Projects\MG3DTR\Release\MG3DTR.exe : fatal error LNK1120: 3 unresolved externals

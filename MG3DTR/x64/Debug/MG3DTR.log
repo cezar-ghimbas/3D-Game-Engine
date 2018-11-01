@@ -1,0 +1,29 @@
+﻿  main.cpp
+c:\users\cezar\desktop\mg3dtr_to_send\mg3dtr\mg3dtr\shader.hpp(61): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\cezar\desktop\mg3dtr_to_send\mg3dtr\mg3dtr\util.hpp(15): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\cezar\desktop\mg3dtr_to_send\mg3dtr\mg3dtr\util.hpp(24): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\cezar\desktop\mg3dtr_to_send\mg3dtr\mg3dtr\util.hpp(34): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\cezar\desktop\mg3dtr_to_send\mg3dtr\mg3dtr\util.hpp(53): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\cezar\desktop\mg3dtr_to_send\mg3dtr\mg3dtr\util.hpp(62): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\cezar\desktop\mg3dtr_to_send\mg3dtr\mg3dtr\util.hpp(89): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\cezar\desktop\mg3dtr_to_send\mg3dtr\mg3dtr\util.hpp(107): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\cezar\desktop\mg3dtr_to_send\mg3dtr\mg3dtr\util.hpp(132): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\cezar\desktop\mg3dtr_to_send\mg3dtr\mg3dtr\util.hpp(148): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\cezar\desktop\mg3dtr_to_send\mg3dtr\mg3dtr\assethelper.hpp(90): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\cezar\desktop\mg3dtr_to_send\mg3dtr\mg3dtr\luascript.hpp(170): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\cezar\desktop\mg3dtr_to_send\mg3dtr\mg3dtr\luascript.hpp(168): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\cezar\desktop\mg3dtr_to_send\mg3dtr\mg3dtr\luascript.hpp(234): warning C4150: deletion of pointer to incomplete type 'lua_State'; no destructor called
+  c:\users\cezar\desktop\mg3dtr\mg3dtr\dependences\lua\include\lua.h(56): note: see declaration of 'lua_State'
+c:\users\cezar\desktop\mg3dtr_to_send\mg3dtr\mg3dtr\boxcollider.hpp(15): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\cezar\desktop\mg3dtr_to_send\mg3dtr\mg3dtr\collision.hpp(31): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\cezar\desktop\mg3dtr_to_send\mg3dtr\mg3dtr\testsimple.hpp(232): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\cezar\desktop\mg3dtr_to_send\mg3dtr\mg3dtr\testsimple.hpp(233): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\cezar\desktop\mg3dtr_to_send\mg3dtr\mg3dtr\testsimple.hpp(250): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  imgui_impl_glfw_gl3.cpp
+  imgui_draw.cpp
+  imgui_demo.cpp
+  imgui.cpp
+  Generating Code...
+  MG3DTR.vcxproj -> C:\Users\Cezar\Desktop\MG3DTR_TO_SEND\MG3DTR\x64\Debug\MG3DTR.exe
+  MG3DTR.vcxproj -> C:\Users\Cezar\Desktop\MG3DTR_TO_SEND\MG3DTR\x64\Debug\MG3DTR.pdb (Full PDB)

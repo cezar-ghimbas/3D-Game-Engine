@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scenes>
+	<Scene name="Scene 1">
+		<Object>
+			<Transform>
+				<Position x="0" y="5" z="500"/>
+				<Rotation x="0" y="0.0" z="0.0"/>
+				<Scale x="1.0" y="1.0" z="1.0"/>
+			</Transform>
+			
+			<Camera>
+				<Fov value="120"/>
+				<Near value="0.1"/>
+				<Far value="10000.0"/>
+				<LookAt x="0" y="0" z="0"/>
+				<Up x="0" y="1" z="0"/>
+			</Camera>
+		</Object>
+		
+		<Object>
+			<Transform>
+				<Position x="10" y="7" z="500"/>
+				<Rotation x="0" y="0.0" z="0.0"/>
+				<Scale x="1.0" y="1.0" z="1.0"/>
+			</Transform>
+			
+			<Light> 
+				<Color x="1" y="1" z="1"/>
+			</Light>
+				
+		</Object>
+
+		<Object>
+			<Transform>
+				<Position x="1.45" y="2.1" z="3.7"/>
+				<Rotation x="0" y="45.0" z="0.0"/>
+				<Scale x="1.0" y="1.0" z="1.0"/>
+			</Transform>
+			
+			<MeshRenderer> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+				<TextureFile location="resources/house/WoodCabinDif.jpg"/>
+			</MeshRenderer>
+
+			<OrientedBoundingBox> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+			</OrientedBoundingBox>
+		</Object>
+
+		<Object>
+			<Transform>
+				<Position x="0.0" y="100.0" z="0.0"/>
+				<Rotation x="0" y="0.0" z="0.0"/>
+				<Scale x="1.0" y="1.0" z="1.0"/>
+			</Transform>
+				
+			<MeshRenderer> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+				<TextureFile location="resources/house/WoodCabinDif.jpg"/>
+			</MeshRenderer>
+
+			<OrientedBoundingBox> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+			</OrientedBoundingBox>
+
+			<Object>
+				<Transform>
+					<Position x="100.0" y="50.0" z="0.0"/>
+					<Rotation x="0" y="0.0" z="0.0"/>
+					<Scale x="1.0" y="1.0" z="1.0"/>
+				</Transform>
+			
+				<MeshRenderer> 
+					<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+					<TextureFile location="resources/house/WoodCabinDif.jpg"/>
+				</MeshRenderer>
+
+				<OrientedBoundingBox> 
+					<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+				</OrientedBoundingBox>
+			</Object>
+		</Object>
+		<Object>
+			<Transform>
+				<Position x="200" y="0" z="0"/>
+				<Rotation x="0" y="45.0" z="0.0"/>
+				<Scale x="1.0" y="1.0" z="1.0"/>
+			</Transform>
+			
+			<MeshRenderer> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+				<TextureFile location="resources/house/WoodCabinDif.jpg"/>
+			</MeshRenderer>
+
+			<OrientedBoundingBox> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+			</OrientedBoundingBox>
+		</Object>
+		<Object>
+			<Transform>
+				<Position x="300" y="2.1" z="3.7"/>
+				<Rotation x="0" y="45.0" z="0.0"/>
+				<Scale x="1.0" y="1.0" z="1.0"/>
+			</Transform>
+			
+			<MeshRenderer> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+				<TextureFile location="resources/house/WoodCabinDif.jpg"/>
+			</MeshRenderer>
+
+			<OrientedBoundingBox> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+			</OrientedBoundingBox>
+		</Object>
+
+		<Object>
+			<Transform>
+				<Position x="400" y="2.1" z="3.7"/>
+				<Rotation x="0" y="45.0" z="0.0"/>
+				<Scale x="1.0" y="1.0" z="1.0"/>
+			</Transform>
+			
+			<MeshRenderer> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+				<TextureFile location="resources/house/WoodCabinDif.jpg"/>
+			</MeshRenderer>
+
+			<OrientedBoundingBox> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+			</OrientedBoundingBox>
+		</Object>
+		<Object>
+			<Transform>
+				<Position x="500" y="2.1" z="3.7"/>
+				<Rotation x="0" y="45.0" z="0.0"/>
+				<Scale x="1.0" y="1.0" z="1.0"/>
+			</Transform>
+			
+			<MeshRenderer> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+				<TextureFile location="resources/house/WoodCabinDif.jpg"/>
+			</MeshRenderer>
+
+			<OrientedBoundingBox> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+			</OrientedBoundingBox>
+		</Object>
+		<Object>
+			<Transform>
+				<Position x="600" y="2.1" z="3.7"/>
+				<Rotation x="0" y="45.0" z="0.0"/>
+				<Scale x="1.0" y="1.0" z="1.0"/>
+			</Transform>
+			
+			<MeshRenderer> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+				<TextureFile location="resources/house/WoodCabinDif.jpg"/>
+			</MeshRenderer>
+
+			<OrientedBoundingBox> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+			</OrientedBoundingBox>
+		</Object>
+		<Object>
+			<Transform>
+				<Position x="700" y="2.1" z="3.7"/>
+				<Rotation x="0" y="45.0" z="0.0"/>
+				<Scale x="1.0" y="1.0" z="1.0"/>
+			</Transform>
+			
+			<MeshRenderer> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+				<TextureFile location="resources/house/WoodCabinDif.jpg"/>
+			</MeshRenderer>
+
+			<OrientedBoundingBox> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+			</OrientedBoundingBox>
+		</Object>
+
+		<Object>
+			<Transform>
+				<Position x="200" y="0" z="-200"/>
+				<Rotation x="0" y="45.0" z="0.0"/>
+				<Scale x="1.0" y="1.0" z="1.0"/>
+			</Transform>
+			
+			<MeshRenderer> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+				<TextureFile location="resources/house/WoodCabinDif.jpg"/>
+			</MeshRenderer>
+
+			<OrientedBoundingBox> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+			</OrientedBoundingBox>
+		</Object>
+		<Object>
+			<Transform>
+				<Position x="300" y="2.1" z="-200"/>
+				<Rotation x="0" y="45.0" z="0.0"/>
+				<Scale x="1.0" y="1.0" z="1.0"/>
+			</Transform>
+			
+			<MeshRenderer> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+				<TextureFile location="resources/house/WoodCabinDif.jpg"/>
+			</MeshRenderer>
+
+			<OrientedBoundingBox> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+			</OrientedBoundingBox>
+		</Object>
+
+		<Object>
+			<Transform>
+				<Position x="400" y="2.1" z="-200"/>
+				<Rotation x="0" y="45.0" z="0.0"/>
+				<Scale x="1.0" y="1.0" z="1.0"/>
+			</Transform>
+			
+			<MeshRenderer> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+				<TextureFile location="resources/house/WoodCabinDif.jpg"/>
+			</MeshRenderer>
+
+			<OrientedBoundingBox> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+			</OrientedBoundingBox>
+		</Object>
+		<Object>
+			<Transform>
+				<Position x="500" y="2.1" z="-200"/>
+				<Rotation x="0" y="45.0" z="0.0"/>
+				<Scale x="1.0" y="1.0" z="1.0"/>
+			</Transform>
+			
+			<MeshRenderer> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+				<TextureFile location="resources/house/WoodCabinDif.jpg"/>
+			</MeshRenderer>
+
+			<OrientedBoundingBox> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+			</OrientedBoundingBox>
+		</Object>
+		<Object>
+			<Transform>
+				<Position x="600" y="2.1" z="-200"/>
+				<Rotation x="0" y="45.0" z="0.0"/>
+				<Scale x="1.0" y="1.0" z="1.0"/>
+			</Transform>
+			
+			<MeshRenderer> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+				<TextureFile location="resources/house/WoodCabinDif.jpg"/>
+			</MeshRenderer>
+
+			<OrientedBoundingBox> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+			</OrientedBoundingBox>
+		</Object>
+		<Object>
+			<Transform>
+				<Position x="700" y="2.1" z="-200"/>
+				<Rotation x="0" y="45.0" z="0.0"/>
+				<Scale x="1.0" y="1.0" z="1.0"/>
+			</Transform>
+			
+			<MeshRenderer> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+				<TextureFile location="resources/house/WoodCabinDif.jpg"/>
+			</MeshRenderer>
+
+			<OrientedBoundingBox> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+			</OrientedBoundingBox>
+		</Object>
+
+<Object>
+			<Transform>
+				<Position x="200" y="0" z="-400"/>
+				<Rotation x="0" y="45.0" z="0.0"/>
+				<Scale x="1.0" y="1.0" z="1.0"/>
+			</Transform>
+			
+			<MeshRenderer> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+				<TextureFile location="resources/house/WoodCabinDif.jpg"/>
+			</MeshRenderer>
+
+			<OrientedBoundingBox> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+			</OrientedBoundingBox>
+		</Object>
+		<Object>
+			<Transform>
+				<Position x="300" y="2.1" z="-400"/>
+				<Rotation x="0" y="45.0" z="0.0"/>
+				<Scale x="1.0" y="1.0" z="1.0"/>
+			</Transform>
+			
+			<MeshRenderer> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+				<TextureFile location="resources/house/WoodCabinDif.jpg"/>
+			</MeshRenderer>
+
+			<OrientedBoundingBox> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+			</OrientedBoundingBox>
+		</Object>
+
+		<Object>
+			<Transform>
+				<Position x="400" y="2.1" z="-400"/>
+				<Rotation x="0" y="45.0" z="0.0"/>
+				<Scale x="1.0" y="1.0" z="1.0"/>
+			</Transform>
+			
+			<MeshRenderer> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+				<TextureFile location="resources/house/WoodCabinDif.jpg"/>
+			</MeshRenderer>
+
+			<OrientedBoundingBox> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+			</OrientedBoundingBox>
+		</Object>
+		<Object>
+			<Transform>
+				<Position x="500" y="2.1" z="-400"/>
+				<Rotation x="0" y="45.0" z="0.0"/>
+				<Scale x="1.0" y="1.0" z="1.0"/>
+			</Transform>
+			
+			<MeshRenderer> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+				<TextureFile location="resources/house/WoodCabinDif.jpg"/>
+			</MeshRenderer>
+
+			<OrientedBoundingBox> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+			</OrientedBoundingBox>
+		</Object>
+		<Object>
+			<Transform>
+				<Position x="600" y="2.1" z="-400"/>
+				<Rotation x="0" y="45.0" z="0.0"/>
+				<Scale x="1.0" y="1.0" z="1.0"/>
+			</Transform>
+			
+			<MeshRenderer> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+				<TextureFile location="resources/house/WoodCabinDif.jpg"/>
+			</MeshRenderer>
+
+			<OrientedBoundingBox> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+			</OrientedBoundingBox>
+		</Object>
+		<Object>
+			<Transform>
+				<Position x="700" y="2.1" z="-400"/>
+				<Rotation x="0" y="45.0" z="0.0"/>
+				<Scale x="1.0" y="1.0" z="1.0"/>
+			</Transform>
+			
+			<MeshRenderer> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+				<TextureFile location="resources/house/WoodCabinDif.jpg"/>
+			</MeshRenderer>
+
+			<OrientedBoundingBox> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+			</OrientedBoundingBox>
+		</Object>
+
+<Object>
+			<Transform>
+				<Position x="200" y="0" z="-600"/>
+				<Rotation x="0" y="45.0" z="0.0"/>
+				<Scale x="1.0" y="1.0" z="1.0"/>
+			</Transform>
+			
+			<MeshRenderer> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+				<TextureFile location="resources/house/WoodCabinDif.jpg"/>
+			</MeshRenderer>
+
+			<OrientedBoundingBox> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+			</OrientedBoundingBox>
+		</Object>
+		<Object>
+			<Transform>
+				<Position x="300" y="2.1" z="-600"/>
+				<Rotation x="0" y="45.0" z="0.0"/>
+				<Scale x="1.0" y="1.0" z="1.0"/>
+			</Transform>
+			
+			<MeshRenderer> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+				<TextureFile location="resources/house/WoodCabinDif.jpg"/>
+			</MeshRenderer>
+
+			<OrientedBoundingBox> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+			</OrientedBoundingBox>
+		</Object>
+
+		<Object>
+			<Transform>
+				<Position x="400" y="2.1" z="-600"/>
+				<Rotation x="0" y="45.0" z="0.0"/>
+				<Scale x="1.0" y="1.0" z="1.0"/>
+			</Transform>
+			
+			<MeshRenderer> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+				<TextureFile location="resources/house/WoodCabinDif.jpg"/>
+			</MeshRenderer>
+
+			<OrientedBoundingBox> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+			</OrientedBoundingBox>
+		</Object>
+		<Object>
+			<Transform>
+				<Position x="500" y="2.1" z="-600"/>
+				<Rotation x="0" y="45.0" z="0.0"/>
+				<Scale x="1.0" y="1.0" z="1.0"/>
+			</Transform>
+			
+			<MeshRenderer> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+				<TextureFile location="resources/house/WoodCabinDif.jpg"/>
+			</MeshRenderer>
+
+			<OrientedBoundingBox> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+			</OrientedBoundingBox>
+		</Object>
+		<Object>
+			<Transform>
+				<Position x="600" y="2.1" z="-600"/>
+				<Rotation x="0" y="45.0" z="0.0"/>
+				<Scale x="1.0" y="1.0" z="1.0"/>
+			</Transform>
+			
+			<MeshRenderer> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+				<TextureFile location="resources/house/WoodCabinDif.jpg"/>
+			</MeshRenderer>
+
+			<OrientedBoundingBox> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+			</OrientedBoundingBox>
+		</Object>
+		<Object>
+			<Transform>
+				<Position x="700" y="2.1" z="-600"/>
+				<Rotation x="0" y="45.0" z="0.0"/>
+				<Scale x="1.0" y="1.0" z="1.0"/>
+			</Transform>
+			
+			<MeshRenderer> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+				<TextureFile location="resources/house/WoodCabinDif.jpg"/>
+			</MeshRenderer>
+
+			<OrientedBoundingBox> 
+				<VertexFile location="resources/house/WoodenCabinObj.obj"/>
+			</OrientedBoundingBox>
+		</Object>
+	</Scene>
+
+</Scenes>

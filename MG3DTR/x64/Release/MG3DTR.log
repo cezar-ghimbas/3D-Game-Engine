@@ -1,0 +1,28 @@
+﻿  main.cpp
+c:\users\cezar\desktop\mg3dtr\mg3dtr\dependences\bullet3d\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\cezar\desktop\mg3dtr\mg3dtr\dependences\bullet3d\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\cezar\desktop\mg3dtr\mg3dtr\dependences\bullet3d\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\cezar\desktop\mg3dtr\mg3dtr\Shader.hpp(61): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\cezar\desktop\mg3dtr\mg3dtr\Util.hpp(15): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\cezar\desktop\mg3dtr\mg3dtr\Util.hpp(24): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\cezar\desktop\mg3dtr\mg3dtr\Util.hpp(34): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\cezar\desktop\mg3dtr\mg3dtr\Util.hpp(53): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\cezar\desktop\mg3dtr\mg3dtr\Util.hpp(62): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\cezar\desktop\mg3dtr\mg3dtr\Util.hpp(89): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\cezar\desktop\mg3dtr\mg3dtr\Util.hpp(107): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\cezar\desktop\mg3dtr\mg3dtr\Util.hpp(132): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\cezar\desktop\mg3dtr\mg3dtr\Util.hpp(148): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\cezar\desktop\mg3dtr\mg3dtr\AssetHelper.hpp(90): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\cezar\desktop\mg3dtr\mg3dtr\LuaScript.hpp(216): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\cezar\desktop\mg3dtr\mg3dtr\LuaScript.hpp(259): warning C4150: deletion of pointer to incomplete type 'lua_State'; no destructor called
+  C:\Users\Cezar\Desktop\MG3DTR\MG3DTR\dependences\lua\include\lua.h(56): note: see declaration of 'lua_State'
+c:\users\cezar\desktop\mg3dtr\mg3dtr\TestSimple.hpp(285): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\cezar\desktop\mg3dtr\mg3dtr\TestSimple.hpp(286): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\cezar\desktop\mg3dtr\mg3dtr\TestSimple.hpp(303): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  Generating code
+  278 of 11567 functions ( 2.4%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    89 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MG3DTR.vcxproj -> C:\Users\Cezar\Desktop\MG3DTR\x64\Release\MG3DTR.exe
+  MG3DTR.vcxproj -> C:\Users\Cezar\Desktop\MG3DTR\x64\Release\MG3DTR.pdb (Full PDB)
